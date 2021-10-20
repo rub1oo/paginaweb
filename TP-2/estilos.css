@@ -1,0 +1,41 @@
+.centrado {
+    text-align: center;
+}
+
+#bandera {
+    width: 500px;
+}
+
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 4500px;
+    font-family: 'Georama', sans-serif;
+    font-size: 20px;
+}
+
+#ingredientes {
+    width: 20px;
+}
+
+
+.instrucciones {
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+.imagenes {
+    width: 500px;
+    padding-left: 150px;
+}
+
+
+.articulo_margen {
+    background-color: ghostwhite;
+    margin: 100px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
